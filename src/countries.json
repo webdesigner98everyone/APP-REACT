@@ -1,0 +1,8 @@
+{
+    "world": [
+      { "id": "1", "country": "Seleccionar" },
+      { "id": "2", "country": "ASEGURAMIENTO EN SALUD" },
+      { "id": "3", "country": "VIGILANCIA EPIDEMIOLOGICA" },
+      { "id": "4", "country": "INTEROPERABILIDAD CLAP" }
+    ]
+  }
